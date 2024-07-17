@@ -3,6 +3,7 @@ def  구구단 (num):
         num2 = num * i
         print(num,'X',i,'=',num2)
 
-b = int(input('숫자를 입력하시오.'))
-구구단(b)
-#dkdkkd
+
+while True :
+    b = int(input('숫자를 입력하시오.'))
+    구구단(b)
