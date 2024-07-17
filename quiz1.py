@@ -1,4 +1,4 @@
-i = 2
+i = 1
 while i < 9 :
     i += 1
     for a in range(1,10):
