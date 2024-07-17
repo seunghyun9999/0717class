@@ -5,3 +5,4 @@ def  구구단 (num):
 
 b = int(input('숫자를 입력하시오.'))
 구구단(b)
+#dkdkkd
